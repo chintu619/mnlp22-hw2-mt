@@ -1,0 +1,3 @@
+BLEU = 1.18 14.7/3.0/0.7/0.1 (BP = 1.000 ratio = 1.658 hyp_len = 6745 ref_len = 4069)
+Running COMET evaluation...
+COMET = -1.4765
